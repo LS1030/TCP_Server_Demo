@@ -1,0 +1,5 @@
+# Debug files
+cmake-build-debug
+
+# IDEA files
+.idea
