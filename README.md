@@ -6,4 +6,4 @@
 
 ## 环境配置
 
-windows10+MinGW64+CLion for linux Code
+windows10+CLion+WSL_ubuntu64(GCC)
