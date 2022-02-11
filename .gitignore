@@ -1,6 +1,7 @@
 # Debug files
 cmake-build-debug
 cmake-build-debug-wsl
+cmake-build-debug-zgjd
 
 # IDEA files
 .idea
