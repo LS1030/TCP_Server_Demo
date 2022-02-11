@@ -6,4 +6,4 @@
 
 ## 环境配置
 
-windows10+CLion+WSL_ubuntu64(GCC)
+windows10+CLion+WSL_ubuntu20.04(GCC)
